@@ -1,0 +1,9 @@
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.deps.json
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.dll
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.pdb
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.AssemblyInfoInputs.cache
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.AssemblyInfo.cs
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.dll
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.pdb
+C:\Training\Shipping\ShippingProject\Shipping.EFCore.Domain.Models\obj\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.csprojAssemblyReference.cache

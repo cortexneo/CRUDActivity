@@ -1,0 +1,16 @@
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.csprojAssemblyReference.cache
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.deps.json
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.runtimeconfig.json
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.runtimeconfig.dev.json
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.dll
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.pdb
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.dll
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.dll
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.Models.pdb
+C:\Training\Shipping\ShippingProject\ShippingProject\bin\Debug\netcoreapp2.1\Shipping.EFCore.Domain.pdb
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.csproj.CoreCompileInputs.cache
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.AssemblyInfoInputs.cache
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.AssemblyInfo.cs
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.csproj.CopyComplete
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.dll
+C:\Training\Shipping\ShippingProject\ShippingProject\obj\Debug\netcoreapp2.1\ShippingProject.EFCore.Infra.pdb
